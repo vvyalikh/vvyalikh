@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvyalikh
 - 👀 I’m interested in Data Science, Python
-- 🌱 I’m currently learning Codecademy
+- 🌱 I’m currently learning Python, Pandas, NumPy, R at Codecademy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
