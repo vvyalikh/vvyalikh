@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vvyalikh
-- 👀 I’m interested in Data Analytics, Data Science, Python
+- 👀 I’m interested in Data Analytics, Python
 - 🌱 I’m currently learning Python, Pandas, NumPy, R at Codecademy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
